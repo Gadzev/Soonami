@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lignux/.android/build-cache/2efcc879fe41a1a2929065a947c68a8daa3de520/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud843_Soonami/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24196f28ff446f463f358198d52980d2a4e6d77b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lignux/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud843_Soonami/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_763bacfacdc2c24673829a4582c4dd3b76bf7e7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lignux/.android/build-cache/14b5f644908d77fb0bc5945817559d1744595bc3/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud843_Soonami/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_0c34b25864b0b10ac770cdbc7fc4f39d35f5ec90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lignux/AndroidStudioProjects/ud843_Soonami/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0328573cbf004aa282c68660b8cf0c656a8835ae">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud843_Soonami/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ccd9a4e24a8e249106adf24f6f8a1bec45649f79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lignux/.android/build-cache/c8e44da76330ac56a72dce258e6da3d297d61153/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud843_Soonami/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e53165943fc0dbfebc99b8bcd3a03a38c546c332/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lignux/AndroidStudioProjects/ud843_Soonami/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud843_Soonami/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_295d4f3816373ee389f7d20232964aab13a3124d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lignux/.android/build-cache/85674bcdc885303f977cab36b892de5e805caf5e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud843_Soonami/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4263dbb53e02c450e6582efbbdf5014559768b63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lignux/.android/build-cache/14b5f644908d77fb0bc5945817559d1744595bc3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud843_Soonami/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f53fdf18e45215f68b662f7d750d2220d90d74d/classes.dex" />
+    </item>
+
+</items>
